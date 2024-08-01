@@ -20,6 +20,14 @@ const Navbar = () => {
             path: '/blog'
         },
         {
+            title: "Category",
+            path: '/category'
+        },
+        {
+            title: "Dashboard",
+            path: '/dashboard'
+        },
+        {
             title: "Contact ",
             path: '/contact'
         },
